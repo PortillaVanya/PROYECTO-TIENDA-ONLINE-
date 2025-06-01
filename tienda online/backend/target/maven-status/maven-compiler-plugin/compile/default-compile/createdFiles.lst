@@ -1,0 +1,11 @@
+org\tienda\controller\UserController.class
+org\tienda\model\Category.class
+org\tienda\config\DBConnection.class
+org\tienda\Main.class
+org\tienda\dao\CategoryDAO.class
+org\tienda\model\User.class
+org\tienda\model\Product.class
+org\tienda\controller\UserController$StandardResponse.class
+org\tienda\controller\ProductController.class
+org\tienda\dao\UserDAO.class
+org\tienda\dao\ProductDAO.class
